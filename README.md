@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5lyu5flua4jdgmij?svg=true)](https://ci.appveyor.com/project/Ibragim066/js-advanced-diploma)
+
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 
 ###### tags: `netology` `advanced js`
@@ -175,7 +177,7 @@
 Укажите начальные характеристики каждого класса:
 
 | Класс     | attack | defence |
-|-----------|--------|---------|
+| --------- | ------ | ------- |
 | Bowman    | 25     | 25      |
 | Swordsman | 40     | 10      |
 | Magician  | 10     | 40      |
